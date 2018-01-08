@@ -27,13 +27,9 @@
   to { transform: rotate(360deg); }
 }
 
-.fa-star {
-  margin: 0.5em;
-  font-size: 24px;
-}
-
 span {
   display: inline-block;
+  font-size: 18px;
   margin: 0.5em;
   text-align: center;
   background-color: #ccc;
@@ -68,7 +64,10 @@ span {
 
 .stars {
   flex: 3;
+  font-size: 20px;
 }
+
+
 
 
 

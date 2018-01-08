@@ -53,4 +53,22 @@ span {
   color: #99bb99;
 }
 
+.game-layout {
+  display: flex;
+
+}
+
+.equals-button {
+  flex: 2;
+}
+
+.answer-value {
+  flex: 3;
+}
+
+.stars {
+  flex: 3;
+}
+
+
 

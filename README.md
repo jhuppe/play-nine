@@ -1,6 +1,6 @@
 # Play Nine
 
-A game created using React.js.
+A game created using React.js. based on the Pluralsight course React.js: Getting Started
 
 ## Game Play
 
